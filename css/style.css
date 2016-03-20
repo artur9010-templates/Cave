@@ -7,7 +7,6 @@
 #content {
     width: 910px;
     margin: 0 auto;
-    padding: 10px;
 }
 
 .clear {
@@ -36,7 +35,6 @@ a {
 
 #menu li {
     display: inline;
-    margin: 0;
     padding: 0 10px 0 10px;
 }
 
@@ -63,9 +61,7 @@ a {
     box-shadow: 3px 3px 6px black;
     font-size: 20px;
     padding: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
-    width: 910px;
+    width: 100%;
     background: #ebebeb;
     margin-bottom: 10px;
     border-radius: 3px;
